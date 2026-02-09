@@ -1,5 +1,34 @@
 [
   {
+    "id": "20260208-004113-vrgn",
+    "title": "Fiddyb, Mofo Mafia",
+    "commanders": [
+      "Fiddyb",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-07T13:41:13.000Z",
+    "dateEnd": "2026-02-07T15:09:25.000Z",
+    "dateLabel": "2/8/2026, 12:41:13 AM - 2/8/2026, 2:09:25 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260208-004113-vrgn",
+    "summary": {
+      "borderlandsPct": 0.06666666666666667,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 14,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 45
+    }
+  },
+  {
     "id": "20260208-020109-unbx",
     "title": "Mofo Mafia",
     "commanders": [
