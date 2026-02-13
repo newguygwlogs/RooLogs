@@ -1,27 +1,4 @@
-[
-  {
-    "id": "20260213-201704-qxss",
-    "title": "Markus Is One",
-    "commanders": [
-      "Markus Is One"
-    ],
-    "dateStart": "2026-02-13T09:17:04.000Z",
-    "dateEnd": "2026-02-13T11:36:35.000Z",
-    "dateLabel": "2/13/2026, 8:17:04 PM - 2/13/2026, 10:36:35 PM",
-    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260213-201704-qxss",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 11,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 22
-    }
-  },
+[ 
   {
     "id": "20260212-005056-ixpz",
     "title": "Alpha Thug",
