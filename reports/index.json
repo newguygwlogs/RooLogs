@@ -1,10 +1,43 @@
 {
   "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Obsidian",
+    "ui": "modern",
+    "paletteId": "Arcane",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260305-005312-ei3i",
+      "title": "Mofo Mafia",
+      "commanders": [
+        "Mofo Mafia"
+      ],
+      "dateStart": "2026-03-04T13:53:12.000Z",
+      "dateEnd": "2026-03-04T14:56:41.000Z",
+      "dateLabel": "3/5/2026, 12:53:12 AM - 3/5/2026, 1:56:41 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260305-005312-ei3i",
+      "summary": {
+        "borderlandsPct": 0.375,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 25
+      }
+    },
     {
       "id": "20260303-005225-1grn",
       "title": "Fiddyb, Mofo Mafia",
