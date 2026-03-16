@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260317-005110-pptq",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-03-16T13:51:10.000Z",
+      "dateEnd": "2026-03-16T15:09:16.000Z",
+      "dateLabel": "3/17/2026, 12:51:10 AM - 3/17/2026, 2:09:16 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260317-005110-pptq",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260315-004020-s69l",
       "title": "Fiddyb",
       "commanders": [
