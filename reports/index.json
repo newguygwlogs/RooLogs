@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260321-003043-hr5n",
+      "title": "Critsus",
+      "commanders": [
+        "Critsus"
+      ],
+      "dateStart": "2026-03-20T13:30:43.000Z",
+      "dateEnd": "2026-03-20T15:17:27.000Z",
+      "dateLabel": "3/21/2026, 12:30:43 AM - 3/21/2026, 2:17:27 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260321-003043-hr5n",
+      "summary": {
+        "borderlandsPct": 0.09523809523809523,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260319-004015-ld3h",
       "title": "Alpha Thug, Mofo Mafia",
       "commanders": [
