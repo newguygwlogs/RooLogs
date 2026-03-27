@@ -1,10 +1,31 @@
 {
-  "siteTheme": {
-    "ui": "modern",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "amber-warm",
+  "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260328-005000-u7ar",
+      "title": "Alpha Thug, Fiddyb",
+      "commanders": [
+        "Alpha Thug",
+        "Fiddyb"
+      ],
+      "dateStart": "2026-03-27T13:50:00.000Z",
+      "dateEnd": "2026-03-27T15:01:13.000Z",
+      "dateLabel": "3/28/2026, 12:50:00 AM - 3/28/2026, 2:01:13 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260328-005000-u7ar",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20260323-004128-mm0c",
       "title": "Alpha Thug",
