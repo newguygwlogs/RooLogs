@@ -3,6 +3,40 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260406-234847-7ssc",
+      "title": "Alpha Thug, Wanda Blackthorne",
+      "commanders": [
+        "Alpha Thug",
+        "Wanda Blackthorne"
+      ],
+      "dateStart": "2026-04-06T13:48:47.000Z",
+      "dateEnd": "2026-04-06T14:53:34.000Z",
+      "dateLabel": "4/6/2026, 11:48:47 PM - 4/7/2026, 12:53:34 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260406-234847-7ssc",
+      "summary": {
+        "borderlandsPct": 0.3333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260405-012559-buge",
       "title": "Alpha Thug",
       "commanders": [
