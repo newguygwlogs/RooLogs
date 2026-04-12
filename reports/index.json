@@ -3,6 +3,39 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260412-234529-76oo",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-04-12T13:45:29.000Z",
+      "dateEnd": "2026-04-12T15:42:31.000Z",
+      "dateLabel": "4/12/2026, 11:45:29 PM - 4/13/2026, 1:42:31 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260412-234529-76oo",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260411-003242-qzst",
       "title": "Alpha Thug",
       "commanders": [
