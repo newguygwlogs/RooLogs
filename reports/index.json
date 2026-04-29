@@ -3,6 +3,30 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260429-233131-mq80",
+      "title": "Alpha Thug, Fiddyb",
+      "commanders": [
+        "Alpha Thug",
+        "Fiddyb"
+      ],
+      "dateStart": "2026-04-29T13:31:31.000Z",
+      "dateEnd": "2026-04-29T14:50:14.000Z",
+      "dateLabel": "4/29/2026, 11:31:31 PM - 4/30/2026, 12:50:14 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260429-233131-mq80",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260424-005154-tr89",
       "title": "Alpha Thug",
       "commanders": [
