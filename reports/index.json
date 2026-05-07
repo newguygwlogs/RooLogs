@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260507-234918-3325",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-05-07T13:49:18.000Z",
+      "dateEnd": "2026-05-07T14:52:38.000Z",
+      "dateLabel": "5/7/2026, 11:49:18 PM - 5/8/2026, 12:52:38 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260507-234918-3325",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260505-234048-ea57",
       "title": "Alpha Thug",
       "commanders": [
