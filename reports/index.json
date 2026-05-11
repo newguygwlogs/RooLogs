@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260511-233620-bz0w",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-05-11T13:36:20.000Z",
+      "dateEnd": "2026-05-11T15:06:24.000Z",
+      "dateLabel": "5/11/2026, 11:36:20 PM - 5/12/2026, 1:06:24 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260511-233620-bz0w",
+      "summary": {
+        "borderlandsPct": 0.5294117647058824,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260509-235943-q2hs",
       "title": "Alpha Centurio",
       "commanders": [
