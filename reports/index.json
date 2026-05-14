@@ -4,6 +4,56 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260514-003656-io0e",
+      "title": "Alpha Thug, Bbqrat, Stop Nerfing Mirage",
+      "commanders": [
+        "Alpha Thug",
+        "Bbqrat",
+        "Stop Nerfing Mirage"
+      ],
+      "dateStart": "2026-05-13T14:36:56.000Z",
+      "dateEnd": "2026-05-13T16:22:05.000Z",
+      "dateLabel": "5/14/2026, 12:36:56 AM - 5/14/2026, 2:22:05 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260514-003656-io0e",
+      "summary": {
+        "borderlandsPct": 0.20388349514563106,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 78,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260514-235322-2koy",
       "title": "Alpha Thug, Fiddyb",
       "commanders": [
