@@ -1,1163 +1,1108 @@
-{
-  "colorPalette": "amber-warm",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260514-003656-io0e",
-      "title": "Alpha Thug, Bbqrat, Stop Nerfing Mirage",
-      "commanders": [
-        "Alpha Thug",
-        "Bbqrat",
-        "Stop Nerfing Mirage"
+[
+  {
+    "id": "20260514-235322-2koy",
+    "title": "Alpha Thug, Fiddyb",
+    "commanders": [
+      "Alpha Thug",
+      "Fiddyb"
+    ],
+    "dateStart": "2026-05-14T13:53:22.000Z",
+    "dateEnd": "2026-05-14T15:12:09.000Z",
+    "dateLabel": "5/14/2026, 11:53:22 PM - 5/15/2026, 1:12:09 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260514-235322-2koy",
+    "summary": {
+      "borderlandsPct": 0.9230769230769231,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 6,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 6,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
       ],
-      "dateStart": "2026-05-13T14:36:56.000Z",
-      "dateEnd": "2026-05-13T16:22:05.000Z",
-      "dateLabel": "5/14/2026, 12:36:56 AM - 5/14/2026, 2:22:05 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260514-003656-io0e",
-      "summary": {
-        "borderlandsPct": 0.20388349514563106,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 78,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 12,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Obsidian Sanctum",
-            "value": 3,
-            "color": "#64748b"
-          },
-          {
-            "name": "Edge of the Mists",
-            "value": 1,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 11,
-        "avgEnemySize": 18
-      }
-    },
-    {
-      "id": "20260514-235322-2koy",
-      "title": "Alpha Thug, Fiddyb",
-      "commanders": [
-        "Alpha Thug",
-        "Fiddyb"
-      ],
-      "dateStart": "2026-05-14T13:53:22.000Z",
-      "dateEnd": "2026-05-14T15:12:09.000Z",
-      "dateLabel": "5/14/2026, 11:53:22 PM - 5/15/2026, 1:12:09 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260514-235322-2koy",
-      "summary": {
-        "borderlandsPct": 0.9230769230769231,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 6,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 6,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260511-233620-bz0w",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-05-11T13:36:20.000Z",
-      "dateEnd": "2026-05-11T15:06:24.000Z",
-      "dateLabel": "5/11/2026, 11:36:20 PM - 5/12/2026, 1:06:24 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260511-233620-bz0w",
-      "summary": {
-        "borderlandsPct": 0.5294117647058824,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 9,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 8,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 35
-      }
-    },
-    {
-      "id": "20260509-235943-q2hs",
-      "title": "Alpha Centurio",
-      "commanders": [
-        "Alpha Centurio"
-      ],
-      "dateStart": "2026-05-09T13:59:43.000Z",
-      "dateEnd": "2026-05-09T15:18:38.000Z",
-      "dateLabel": "5/9/2026, 11:59:43 PM - 5/10/2026, 1:18:38 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260509-235943-q2hs",
-      "summary": {
-        "borderlandsPct": 0.875,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 46
-      }
-    },
-    {
-      "id": "20260507-234918-3325",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-05-07T13:49:18.000Z",
-      "dateEnd": "2026-05-07T14:52:38.000Z",
-      "dateLabel": "5/7/2026, 11:49:18 PM - 5/8/2026, 12:52:38 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260507-234918-3325",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 19,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 35,
-        "avgEnemySize": 48
-      }
-    },
-    {
-      "id": "20260505-234048-ea57",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-05-05T13:40:48.000Z",
-      "dateEnd": "2026-05-05T14:31:19.000Z",
-      "dateLabel": "5/5/2026, 11:40:48 PM - 5/6/2026, 12:31:19 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260505-234048-ea57",
-      "summary": {
-        "borderlandsPct": 0.125,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 21,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 44
-      }
-    },
-    {
-      "id": "20260429-233131-mq80",
-      "title": "Alpha Thug, Fiddyb",
-      "commanders": [
-        "Alpha Thug",
-        "Fiddyb"
-      ],
-      "dateStart": "2026-04-29T13:31:31.000Z",
-      "dateEnd": "2026-04-29T14:50:14.000Z",
-      "dateLabel": "4/29/2026, 11:31:31 PM - 4/30/2026, 12:50:14 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260429-233131-mq80",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 18,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 59
-      }
-    },
-    {
-      "id": "20260424-005154-tr89",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-04-23T14:51:54.000Z",
-      "dateEnd": "2026-04-23T15:21:47.000Z",
-      "dateLabel": "4/24/2026, 12:51:54 AM - 4/24/2026, 1:21:47 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260424-005154-tr89",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 3,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 16,
-        "avgEnemySize": 26
-      }
-    },
-    {
-      "id": "20260414-234351-flfh",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-04-14T13:43:51.000Z",
-      "dateEnd": "2026-04-14T15:03:10.000Z",
-      "dateLabel": "4/14/2026, 11:43:51 PM - 4/15/2026, 1:03:10 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260414-234351-flfh",
-      "summary": {
-        "borderlandsPct": 0.5454545454545454,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 6,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 5,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260412-234529-ws8o",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-04-12T13:45:29.000Z",
-      "dateEnd": "2026-04-12T15:27:09.000Z",
-      "dateLabel": "4/12/2026, 11:45:29 PM - 4/13/2026, 1:27:09 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260412-234529-ws8o",
-      "summary": {
-        "borderlandsPct": 0.625,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 7,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 6,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260411-003242-qzst",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-04-10T14:32:42.000Z",
-      "dateEnd": "2026-04-10T15:14:20.000Z",
-      "dateLabel": "4/11/2026, 12:32:42 AM - 4/11/2026, 1:14:20 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260411-003242-qzst",
-      "summary": {
-        "borderlandsPct": 0.16666666666666666,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 5,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 22
-      }
-    },
-    {
-      "id": "20260406-234847-7ssc",
-      "title": "Alpha Thug, Wanda Blackthorne",
-      "commanders": [
-        "Alpha Thug",
-        "Wanda Blackthorne"
-      ],
-      "dateStart": "2026-04-06T13:48:47.000Z",
-      "dateEnd": "2026-04-06T14:53:34.000Z",
-      "dateLabel": "4/6/2026, 11:48:47 PM - 4/7/2026, 12:53:34 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260406-234847-7ssc",
-      "summary": {
-        "borderlandsPct": 0.3333333333333333,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 4,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 1,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 19
-      }
-    },
-    {
-      "id": "20260405-012559-buge",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-04-04T14:25:59.000Z",
-      "dateEnd": "2026-04-04T15:25:09.000Z",
-      "dateLabel": "4/5/2026, 1:25:59 AM - 4/5/2026, 2:25:09 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260405-012559-buge",
-      "summary": {
-        "borderlandsPct": 0.42857142857142855,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 4,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 3,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 43,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260403-004241-bjnb",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-04-02T13:42:41.000Z",
-      "dateEnd": "2026-04-02T15:03:54.000Z",
-      "dateLabel": "4/3/2026, 12:42:41 AM - 4/3/2026, 2:03:54 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260403-004241-bjnb",
-      "summary": {
-        "borderlandsPct": 0.13043478260869565,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 20,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 35,
-        "avgEnemySize": 39
-      }
-    },
-    {
-      "id": "20260401-004804-va14",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-03-31T13:48:04.000Z",
-      "dateEnd": "2026-03-31T15:06:56.000Z",
-      "dateLabel": "4/1/2026, 12:48:04 AM - 4/1/2026, 2:06:56 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260401-004804-va14",
-      "summary": {
-        "borderlandsPct": 0.35714285714285715,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 9,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 5,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 34,
-        "avgEnemySize": 34
-      }
-    },
-    {
-      "id": "20260330-004106-ntov",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-03-29T13:41:06.000Z",
-      "dateEnd": "2026-03-29T15:18:48.000Z",
-      "dateLabel": "3/30/2026, 12:41:06 AM - 3/30/2026, 2:18:48 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260330-004106-ntov",
-      "summary": {
-        "borderlandsPct": 0.2,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 20,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 39,
-        "avgEnemySize": 46
-      }
-    },
-    {
-      "id": "20260328-005000-u7ar",
-      "title": "Alpha Thug, Fiddyb",
-      "commanders": [
-        "Alpha Thug",
-        "Fiddyb"
-      ],
-      "dateStart": "2026-03-27T13:50:00.000Z",
-      "dateEnd": "2026-03-27T15:01:13.000Z",
-      "dateLabel": "3/28/2026, 12:50:00 AM - 3/28/2026, 2:01:13 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260328-005000-u7ar",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 13,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 33
-      }
-    },
-    {
-      "id": "20260323-004128-mm0c",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-03-22T13:41:28.000Z",
-      "dateEnd": "2026-03-22T14:54:13.000Z",
-      "dateLabel": "3/23/2026, 12:41:28 AM - 3/23/2026, 1:54:13 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260323-004128-mm0c",
-      "summary": {
-        "borderlandsPct": 0.5833333333333334,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 5,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 5,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 28,
-        "avgEnemySize": 47
-      }
-    },
-    {
-      "id": "20260322-004104-fq5u",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-03-21T13:41:04.000Z",
-      "dateEnd": "2026-03-21T15:25:30.000Z",
-      "dateLabel": "3/22/2026, 12:41:04 AM - 3/22/2026, 2:25:30 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260322-004104-fq5u",
-      "summary": {
-        "borderlandsPct": 0.15789473684210525,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 16,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 28,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260321-003043-hr5n",
-      "title": "Critsus",
-      "commanders": [
-        "Critsus"
-      ],
-      "dateStart": "2026-03-20T13:30:43.000Z",
-      "dateEnd": "2026-03-20T15:17:27.000Z",
-      "dateLabel": "3/21/2026, 12:30:43 AM - 3/21/2026, 2:17:27 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260321-003043-hr5n",
-      "summary": {
-        "borderlandsPct": 0.09523809523809523,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 19,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 28,
-        "avgEnemySize": 35
-      }
-    },
-    {
-      "id": "20260319-004015-ld3h",
-      "title": "Alpha Thug, Mofo Mafia",
-      "commanders": [
-        "Alpha Thug",
-        "Mofo Mafia"
-      ],
-      "dateStart": "2026-03-18T13:40:15.000Z",
-      "dateEnd": "2026-03-18T14:45:51.000Z",
-      "dateLabel": "3/19/2026, 12:40:15 AM - 3/19/2026, 1:45:51 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260319-004015-ld3h",
-      "summary": {
-        "borderlandsPct": 0.8571428571428571,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 30
-      }
-    },
-    {
-      "id": "20260317-005110-pptq",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-03-16T13:51:10.000Z",
-      "dateEnd": "2026-03-16T15:09:16.000Z",
-      "dateLabel": "3/17/2026, 12:51:10 AM - 3/17/2026, 2:09:16 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260317-005110-pptq",
-      "summary": {
-        "borderlandsPct": 0.6,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 2,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 28
-      }
-    },
-    {
-      "id": "20260315-004020-s69l",
-      "title": "Fiddyb",
-      "commanders": [
-        "Fiddyb"
-      ],
-      "dateStart": "2026-03-14T13:40:20.000Z",
-      "dateEnd": "2026-03-14T15:36:58.000Z",
-      "dateLabel": "3/15/2026, 12:40:20 AM - 3/15/2026, 2:36:58 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260315-004020-s69l",
-      "summary": {
-        "borderlandsPct": 0.4782608695652174,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 12,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 11,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 53
-      }
-    },
-    {
-      "id": "20260313-004336-l6gl",
-      "title": "Fiddyb",
-      "commanders": [
-        "Fiddyb"
-      ],
-      "dateStart": "2026-03-12T13:43:36.000Z",
-      "dateEnd": "2026-03-12T15:09:34.000Z",
-      "dateLabel": "3/13/2026, 12:43:36 AM - 3/13/2026, 2:09:34 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260313-004336-l6gl",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 13,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 27
-      }
-    },
-    {
-      "id": "20260311-010057-hfuc",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-03-10T14:00:57.000Z",
-      "dateEnd": "2026-03-10T14:56:44.000Z",
-      "dateLabel": "3/11/2026, 1:00:57 AM - 3/11/2026, 1:56:44 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260311-010057-hfuc",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 8,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 46
-      }
-    },
-    {
-      "id": "20260309-003013-d10y",
-      "title": "Alpha Thug, Mofo Mafia",
-      "commanders": [
-        "Alpha Thug",
-        "Mofo Mafia"
-      ],
-      "dateStart": "2026-03-08T13:30:13.000Z",
-      "dateEnd": "2026-03-08T15:18:33.000Z",
-      "dateLabel": "3/9/2026, 12:30:13 AM - 3/9/2026, 2:18:33 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260309-003013-d10y",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 21,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 42
-      }
-    },
-    {
-      "id": "20260305-005312-ei3i",
-      "title": "Mofo Mafia",
-      "commanders": [
-        "Mofo Mafia"
-      ],
-      "dateStart": "2026-03-04T13:53:12.000Z",
-      "dateEnd": "2026-03-04T14:56:41.000Z",
-      "dateLabel": "3/5/2026, 12:53:12 AM - 3/5/2026, 1:56:41 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260305-005312-ei3i",
-      "summary": {
-        "borderlandsPct": 0.375,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 5,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 1,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 25
-      }
-    },
-    {
-      "id": "20260303-005225-1grn",
-      "title": "Fiddyb, Mofo Mafia",
-      "commanders": [
-        "Fiddyb",
-        "Mofo Mafia"
-      ],
-      "dateStart": "2026-03-02T13:52:25.000Z",
-      "dateEnd": "2026-03-02T14:52:07.000Z",
-      "dateLabel": "3/3/2026, 12:52:25 AM - 3/3/2026, 1:52:07 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260303-005225-1grn",
-      "summary": {
-        "borderlandsPct": 0.4,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 3,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 1,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 37
-      }
-    },
-    {
-      "id": "20260301-003530-9vn8",
-      "title": "Mofo Mafia",
-      "commanders": [
-        "Mofo Mafia"
-      ],
-      "dateStart": "2026-02-28T13:35:30.000Z",
-      "dateEnd": "2026-02-28T15:36:59.000Z",
-      "dateLabel": "3/1/2026, 12:35:30 AM - 3/1/2026, 2:36:59 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260301-003530-9vn8",
-      "summary": {
-        "borderlandsPct": 0.3,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 14,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 4,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 40
-      }
-    },
-    {
-      "id": "20260228-005845-elrn",
-      "title": "Mofo Mafia",
-      "commanders": [
-        "Mofo Mafia"
-      ],
-      "dateStart": "2026-02-27T13:58:45.000Z",
-      "dateEnd": "2026-02-27T15:29:07.000Z",
-      "dateLabel": "2/28/2026, 12:58:45 AM - 2/28/2026, 2:29:07 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260228-005845-elrn",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 14,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 21
-      }
-    },
-    {
-      "id": "20260227-005659-2qiv",
-      "title": "Alpha Thug, Mofo Mafia",
-      "commanders": [
-        "Alpha Thug",
-        "Mofo Mafia"
-      ],
-      "dateStart": "2026-02-26T13:56:59.000Z",
-      "dateEnd": "2026-02-26T15:27:55.000Z",
-      "dateLabel": "2/27/2026, 12:56:59 AM - 2/27/2026, 2:27:55 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260227-005659-2qiv",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 19,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260226-010303-pccz",
-      "title": "Mofo Mafia",
-      "commanders": [
-        "Mofo Mafia"
-      ],
-      "dateStart": "2026-02-25T14:03:03.000Z",
-      "dateEnd": "2026-02-25T15:29:24.000Z",
-      "dateLabel": "2/26/2026, 1:03:03 AM - 2/26/2026, 2:29:24 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260226-010303-pccz",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 15,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260224-005715-1uyz",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-02-23T13:57:15.000Z",
-      "dateEnd": "2026-02-23T15:24:15.000Z",
-      "dateLabel": "2/24/2026, 12:57:15 AM - 2/24/2026, 2:24:15 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260224-005715-1uyz",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 12,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 26
-      }
-    },
-    {
-      "id": "20260220-004224-vrtt",
-      "title": "Alpha Thug, Mofo Mafia",
-      "commanders": [
-        "Alpha Thug",
-        "Mofo Mafia"
-      ],
-      "dateStart": "2026-02-19T13:42:24.000Z",
-      "dateEnd": "2026-02-19T14:56:40.000Z",
-      "dateLabel": "2/20/2026, 12:42:24 AM - 2/20/2026, 1:56:40 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260220-004224-vrtt",
-      "summary": {
-        "borderlandsPct": 0.05555555555555555,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 17,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 49
-      }
-    },
-    {
-      "id": "20260218-004348-6o0a",
-      "title": "Alpha Thug, Mofo Mafia",
-      "commanders": [
-        "Alpha Thug",
-        "Mofo Mafia"
-      ],
-      "dateStart": "2026-02-17T13:43:48.000Z",
-      "dateEnd": "2026-02-17T15:12:13.000Z",
-      "dateLabel": "2/18/2026, 12:43:48 AM - 2/18/2026, 2:12:13 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260218-004348-6o0a",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 19,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 45
-      }
-    },
-    {
-      "id": "20260216-004206-32a7",
-      "title": "Alpha Thug, Mofo Mafia",
-      "commanders": [
-        "Alpha Thug",
-        "Mofo Mafia"
-      ],
-      "dateStart": "2026-02-15T13:42:06.000Z",
-      "dateEnd": "2026-02-15T15:23:11.000Z",
-      "dateLabel": "2/16/2026, 12:42:06 AM - 2/16/2026, 2:23:11 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260216-004206-32a7",
-      "summary": {
-        "borderlandsPct": 0.26666666666666666,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 11,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 48
-      }
-    },
-    {
-      "id": "20260214-010329-vezg",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-02-13T14:03:29.000Z",
-      "dateEnd": "2026-02-13T15:31:38.000Z",
-      "dateLabel": "2/14/2026, 1:03:29 AM - 2/14/2026, 2:31:38 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260214-010329-vezg",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 19,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 48
-      }
-    },
-    {
-      "id": "20260212-005056-ixpz",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-02-11T13:50:56.000Z",
-      "dateEnd": "2026-02-11T15:18:32.000Z",
-      "dateLabel": "2/12/2026, 12:50:56 AM - 2/12/2026, 2:18:32 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260212-005056-ixpz",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 13,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 38
-      }
-    },
-    {
-      "id": "20260212-005056-ue4d",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-02-11T13:50:56.000Z",
-      "dateEnd": "2026-02-11T15:18:32.000Z",
-      "dateLabel": "2/12/2026, 12:50:56 AM - 2/12/2026, 2:18:32 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260212-005056-ue4d",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 13,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 38
-      }
-    },
-    {
-      "id": "20260212-005056-xa7t",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-02-11T13:50:56.000Z",
-      "dateEnd": "2026-02-11T15:18:32.000Z",
-      "dateLabel": "2/12/2026, 12:50:56 AM - 2/12/2026, 2:18:32 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260212-005056-xa7t",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 13,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 38
-      }
-    },
-    {
-      "id": "20260210-010005-s5az",
-      "title": "Alpha Thug",
-      "commanders": [
-        "Alpha Thug"
-      ],
-      "dateStart": "2026-02-09T14:00:05.000Z",
-      "dateEnd": "2026-02-09T15:24:26.000Z",
-      "dateLabel": "2/10/2026, 1:00:05 AM - 2/10/2026, 2:24:26 AM",
-      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260210-010005-s5az",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 7,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 25
-      }
+      "avgSquadSize": 23,
+      "avgEnemySize": 36
     }
-  ]
-}
+  },
+  {
+    "id": "20260511-233620-bz0w",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-05-11T13:36:20.000Z",
+    "dateEnd": "2026-05-11T15:06:24.000Z",
+    "dateLabel": "5/11/2026, 11:36:20 PM - 5/12/2026, 1:06:24 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260511-233620-bz0w",
+    "summary": {
+      "borderlandsPct": 0.5294117647058824,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 9,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 8,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 35
+    }
+  },
+  {
+    "id": "20260509-235943-q2hs",
+    "title": "Alpha Centurio",
+    "commanders": [
+      "Alpha Centurio"
+    ],
+    "dateStart": "2026-05-09T13:59:43.000Z",
+    "dateEnd": "2026-05-09T15:18:38.000Z",
+    "dateLabel": "5/9/2026, 11:59:43 PM - 5/10/2026, 1:18:38 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260509-235943-q2hs",
+    "summary": {
+      "borderlandsPct": 0.875,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 46
+    }
+  },
+  {
+    "id": "20260507-234918-3325",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-05-07T13:49:18.000Z",
+    "dateEnd": "2026-05-07T14:52:38.000Z",
+    "dateLabel": "5/7/2026, 11:49:18 PM - 5/8/2026, 12:52:38 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260507-234918-3325",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 35,
+      "avgEnemySize": 48
+    }
+  },
+  {
+    "id": "20260505-234048-ea57",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-05-05T13:40:48.000Z",
+    "dateEnd": "2026-05-05T14:31:19.000Z",
+    "dateLabel": "5/5/2026, 11:40:48 PM - 5/6/2026, 12:31:19 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260505-234048-ea57",
+    "summary": {
+      "borderlandsPct": 0.125,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 21,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 44
+    }
+  },
+  {
+    "id": "20260429-233131-mq80",
+    "title": "Alpha Thug, Fiddyb",
+    "commanders": [
+      "Alpha Thug",
+      "Fiddyb"
+    ],
+    "dateStart": "2026-04-29T13:31:31.000Z",
+    "dateEnd": "2026-04-29T14:50:14.000Z",
+    "dateLabel": "4/29/2026, 11:31:31 PM - 4/30/2026, 12:50:14 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260429-233131-mq80",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 18,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 59
+    }
+  },
+  {
+    "id": "20260424-005154-tr89",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-04-23T14:51:54.000Z",
+    "dateEnd": "2026-04-23T15:21:47.000Z",
+    "dateLabel": "4/24/2026, 12:51:54 AM - 4/24/2026, 1:21:47 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260424-005154-tr89",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 3,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 16,
+      "avgEnemySize": 26
+    }
+  },
+  {
+    "id": "20260414-234351-flfh",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-04-14T13:43:51.000Z",
+    "dateEnd": "2026-04-14T15:03:10.000Z",
+    "dateLabel": "4/14/2026, 11:43:51 PM - 4/15/2026, 1:03:10 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260414-234351-flfh",
+    "summary": {
+      "borderlandsPct": 0.5454545454545454,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 6,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 5,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260412-234529-ws8o",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-04-12T13:45:29.000Z",
+    "dateEnd": "2026-04-12T15:27:09.000Z",
+    "dateLabel": "4/12/2026, 11:45:29 PM - 4/13/2026, 1:27:09 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260412-234529-ws8o",
+    "summary": {
+      "borderlandsPct": 0.625,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 7,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 6,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260411-003242-qzst",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-04-10T14:32:42.000Z",
+    "dateEnd": "2026-04-10T15:14:20.000Z",
+    "dateLabel": "4/11/2026, 12:32:42 AM - 4/11/2026, 1:14:20 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260411-003242-qzst",
+    "summary": {
+      "borderlandsPct": 0.16666666666666666,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 5,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 22
+    }
+  },
+  {
+    "id": "20260406-234847-7ssc",
+    "title": "Alpha Thug, Wanda Blackthorne",
+    "commanders": [
+      "Alpha Thug",
+      "Wanda Blackthorne"
+    ],
+    "dateStart": "2026-04-06T13:48:47.000Z",
+    "dateEnd": "2026-04-06T14:53:34.000Z",
+    "dateLabel": "4/6/2026, 11:48:47 PM - 4/7/2026, 12:53:34 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260406-234847-7ssc",
+    "summary": {
+      "borderlandsPct": 0.3333333333333333,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 4,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 19
+    }
+  },
+  {
+    "id": "20260405-012559-buge",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-04-04T14:25:59.000Z",
+    "dateEnd": "2026-04-04T15:25:09.000Z",
+    "dateLabel": "4/5/2026, 1:25:59 AM - 4/5/2026, 2:25:09 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260405-012559-buge",
+    "summary": {
+      "borderlandsPct": 0.42857142857142855,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 4,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 43,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260403-004241-bjnb",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-04-02T13:42:41.000Z",
+    "dateEnd": "2026-04-02T15:03:54.000Z",
+    "dateLabel": "4/3/2026, 12:42:41 AM - 4/3/2026, 2:03:54 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260403-004241-bjnb",
+    "summary": {
+      "borderlandsPct": 0.13043478260869565,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 20,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 35,
+      "avgEnemySize": 39
+    }
+  },
+  {
+    "id": "20260401-004804-va14",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-03-31T13:48:04.000Z",
+    "dateEnd": "2026-03-31T15:06:56.000Z",
+    "dateLabel": "4/1/2026, 12:48:04 AM - 4/1/2026, 2:06:56 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260401-004804-va14",
+    "summary": {
+      "borderlandsPct": 0.35714285714285715,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 9,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 34
+    }
+  },
+  {
+    "id": "20260330-004106-ntov",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-03-29T13:41:06.000Z",
+    "dateEnd": "2026-03-29T15:18:48.000Z",
+    "dateLabel": "3/30/2026, 12:41:06 AM - 3/30/2026, 2:18:48 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260330-004106-ntov",
+    "summary": {
+      "borderlandsPct": 0.2,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 20,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 39,
+      "avgEnemySize": 46
+    }
+  },
+  {
+    "id": "20260328-005000-u7ar",
+    "title": "Alpha Thug, Fiddyb",
+    "commanders": [
+      "Alpha Thug",
+      "Fiddyb"
+    ],
+    "dateStart": "2026-03-27T13:50:00.000Z",
+    "dateEnd": "2026-03-27T15:01:13.000Z",
+    "dateLabel": "3/28/2026, 12:50:00 AM - 3/28/2026, 2:01:13 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260328-005000-u7ar",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 33
+    }
+  },
+  {
+    "id": "20260323-004128-mm0c",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-03-22T13:41:28.000Z",
+    "dateEnd": "2026-03-22T14:54:13.000Z",
+    "dateLabel": "3/23/2026, 12:41:28 AM - 3/23/2026, 1:54:13 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260323-004128-mm0c",
+    "summary": {
+      "borderlandsPct": 0.5833333333333334,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 5,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 47
+    }
+  },
+  {
+    "id": "20260322-004104-fq5u",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-03-21T13:41:04.000Z",
+    "dateEnd": "2026-03-21T15:25:30.000Z",
+    "dateLabel": "3/22/2026, 12:41:04 AM - 3/22/2026, 2:25:30 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260322-004104-fq5u",
+    "summary": {
+      "borderlandsPct": 0.15789473684210525,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260321-003043-hr5n",
+    "title": "Critsus",
+    "commanders": [
+      "Critsus"
+    ],
+    "dateStart": "2026-03-20T13:30:43.000Z",
+    "dateEnd": "2026-03-20T15:17:27.000Z",
+    "dateLabel": "3/21/2026, 12:30:43 AM - 3/21/2026, 2:17:27 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260321-003043-hr5n",
+    "summary": {
+      "borderlandsPct": 0.09523809523809523,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 35
+    }
+  },
+  {
+    "id": "20260319-004015-ld3h",
+    "title": "Alpha Thug, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-03-18T13:40:15.000Z",
+    "dateEnd": "2026-03-18T14:45:51.000Z",
+    "dateLabel": "3/19/2026, 12:40:15 AM - 3/19/2026, 1:45:51 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260319-004015-ld3h",
+    "summary": {
+      "borderlandsPct": 0.8571428571428571,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 30
+    }
+  },
+  {
+    "id": "20260317-005110-pptq",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-03-16T13:51:10.000Z",
+    "dateEnd": "2026-03-16T15:09:16.000Z",
+    "dateLabel": "3/17/2026, 12:51:10 AM - 3/17/2026, 2:09:16 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260317-005110-pptq",
+    "summary": {
+      "borderlandsPct": 0.6,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 2,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 28
+    }
+  },
+  {
+    "id": "20260315-004020-s69l",
+    "title": "Fiddyb",
+    "commanders": [
+      "Fiddyb"
+    ],
+    "dateStart": "2026-03-14T13:40:20.000Z",
+    "dateEnd": "2026-03-14T15:36:58.000Z",
+    "dateLabel": "3/15/2026, 12:40:20 AM - 3/15/2026, 2:36:58 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260315-004020-s69l",
+    "summary": {
+      "borderlandsPct": 0.4782608695652174,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 12,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 11,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 53
+    }
+  },
+  {
+    "id": "20260313-004336-l6gl",
+    "title": "Fiddyb",
+    "commanders": [
+      "Fiddyb"
+    ],
+    "dateStart": "2026-03-12T13:43:36.000Z",
+    "dateEnd": "2026-03-12T15:09:34.000Z",
+    "dateLabel": "3/13/2026, 12:43:36 AM - 3/13/2026, 2:09:34 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260313-004336-l6gl",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 27
+    }
+  },
+  {
+    "id": "20260311-010057-hfuc",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-03-10T14:00:57.000Z",
+    "dateEnd": "2026-03-10T14:56:44.000Z",
+    "dateLabel": "3/11/2026, 1:00:57 AM - 3/11/2026, 1:56:44 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260311-010057-hfuc",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 8,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 46
+    }
+  },
+  {
+    "id": "20260309-003013-d10y",
+    "title": "Alpha Thug, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-03-08T13:30:13.000Z",
+    "dateEnd": "2026-03-08T15:18:33.000Z",
+    "dateLabel": "3/9/2026, 12:30:13 AM - 3/9/2026, 2:18:33 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260309-003013-d10y",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 21,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 42
+    }
+  },
+  {
+    "id": "20260305-005312-ei3i",
+    "title": "Mofo Mafia",
+    "commanders": [
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-03-04T13:53:12.000Z",
+    "dateEnd": "2026-03-04T14:56:41.000Z",
+    "dateLabel": "3/5/2026, 12:53:12 AM - 3/5/2026, 1:56:41 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260305-005312-ei3i",
+    "summary": {
+      "borderlandsPct": 0.375,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 5,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 25
+    }
+  },
+  {
+    "id": "20260303-005225-1grn",
+    "title": "Fiddyb, Mofo Mafia",
+    "commanders": [
+      "Fiddyb",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-03-02T13:52:25.000Z",
+    "dateEnd": "2026-03-02T14:52:07.000Z",
+    "dateLabel": "3/3/2026, 12:52:25 AM - 3/3/2026, 1:52:07 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260303-005225-1grn",
+    "summary": {
+      "borderlandsPct": 0.4,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 3,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 37
+    }
+  },
+  {
+    "id": "20260301-003530-9vn8",
+    "title": "Mofo Mafia",
+    "commanders": [
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-28T13:35:30.000Z",
+    "dateEnd": "2026-02-28T15:36:59.000Z",
+    "dateLabel": "3/1/2026, 12:35:30 AM - 3/1/2026, 2:36:59 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260301-003530-9vn8",
+    "summary": {
+      "borderlandsPct": 0.3,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 14,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 4,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 40
+    }
+  },
+  {
+    "id": "20260228-005845-elrn",
+    "title": "Mofo Mafia",
+    "commanders": [
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-27T13:58:45.000Z",
+    "dateEnd": "2026-02-27T15:29:07.000Z",
+    "dateLabel": "2/28/2026, 12:58:45 AM - 2/28/2026, 2:29:07 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260228-005845-elrn",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 14,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 21
+    }
+  },
+  {
+    "id": "20260227-005659-2qiv",
+    "title": "Alpha Thug, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-26T13:56:59.000Z",
+    "dateEnd": "2026-02-26T15:27:55.000Z",
+    "dateLabel": "2/27/2026, 12:56:59 AM - 2/27/2026, 2:27:55 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260227-005659-2qiv",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260226-010303-pccz",
+    "title": "Mofo Mafia",
+    "commanders": [
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-25T14:03:03.000Z",
+    "dateEnd": "2026-02-25T15:29:24.000Z",
+    "dateLabel": "2/26/2026, 1:03:03 AM - 2/26/2026, 2:29:24 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260226-010303-pccz",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 15,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 32
+    }
+  },
+  {
+    "id": "20260224-005715-1uyz",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-02-23T13:57:15.000Z",
+    "dateEnd": "2026-02-23T15:24:15.000Z",
+    "dateLabel": "2/24/2026, 12:57:15 AM - 2/24/2026, 2:24:15 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260224-005715-1uyz",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 12,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 26
+    }
+  },
+  {
+    "id": "20260220-004224-vrtt",
+    "title": "Alpha Thug, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-19T13:42:24.000Z",
+    "dateEnd": "2026-02-19T14:56:40.000Z",
+    "dateLabel": "2/20/2026, 12:42:24 AM - 2/20/2026, 1:56:40 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260220-004224-vrtt",
+    "summary": {
+      "borderlandsPct": 0.05555555555555555,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 17,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 49
+    }
+  },
+  {
+    "id": "20260218-004348-6o0a",
+    "title": "Alpha Thug, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-17T13:43:48.000Z",
+    "dateEnd": "2026-02-17T15:12:13.000Z",
+    "dateLabel": "2/18/2026, 12:43:48 AM - 2/18/2026, 2:12:13 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260218-004348-6o0a",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 45
+    }
+  },
+  {
+    "id": "20260216-004206-32a7",
+    "title": "Alpha Thug, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-15T13:42:06.000Z",
+    "dateEnd": "2026-02-15T15:23:11.000Z",
+    "dateLabel": "2/16/2026, 12:42:06 AM - 2/16/2026, 2:23:11 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260216-004206-32a7",
+    "summary": {
+      "borderlandsPct": 0.26666666666666666,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 11,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 48
+    }
+  },
+  {
+    "id": "20260214-010329-vezg",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-02-13T14:03:29.000Z",
+    "dateEnd": "2026-02-13T15:31:38.000Z",
+    "dateLabel": "2/14/2026, 1:03:29 AM - 2/14/2026, 2:31:38 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260214-010329-vezg",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 48
+    }
+  },
+  {
+    "id": "20260212-005056-ixpz",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-02-11T13:50:56.000Z",
+    "dateEnd": "2026-02-11T15:18:32.000Z",
+    "dateLabel": "2/12/2026, 12:50:56 AM - 2/12/2026, 2:18:32 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260212-005056-ixpz",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 38
+    }
+  },
+  {
+    "id": "20260212-005056-ue4d",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-02-11T13:50:56.000Z",
+    "dateEnd": "2026-02-11T15:18:32.000Z",
+    "dateLabel": "2/12/2026, 12:50:56 AM - 2/12/2026, 2:18:32 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260212-005056-ue4d",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 38
+    }
+  },
+  {
+    "id": "20260212-005056-xa7t",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-02-11T13:50:56.000Z",
+    "dateEnd": "2026-02-11T15:18:32.000Z",
+    "dateLabel": "2/12/2026, 12:50:56 AM - 2/12/2026, 2:18:32 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260212-005056-xa7t",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 38
+    }
+  },
+  {
+    "id": "20260210-010005-s5az",
+    "title": "Alpha Thug",
+    "commanders": [
+      "Alpha Thug"
+    ],
+    "dateStart": "2026-02-09T14:00:05.000Z",
+    "dateEnd": "2026-02-09T15:24:26.000Z",
+    "dateLabel": "2/10/2026, 1:00:05 AM - 2/10/2026, 2:24:26 AM",
+    "url": "https://newguygwlogs.github.io/RooLogs/?report=20260210-010005-s5az",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 7,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 25
+    }
+  }
+]
