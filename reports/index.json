@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260530-233443-rioq",
+      "title": "Fiddyb, Mofo Mafia",
+      "commanders": [
+        "Fiddyb",
+        "Mofo Mafia"
+      ],
+      "dateStart": "2026-05-30T13:34:43.000Z",
+      "dateEnd": "2026-05-30T15:14:20.000Z",
+      "dateLabel": "5/30/2026, 11:34:43 PM - 5/31/2026, 1:14:20 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260530-233443-rioq",
+      "summary": {
+        "borderlandsPct": 0.08333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 68
+      }
+    },
+    {
       "id": "20260527-002136-wts3",
       "title": "Mofo Mafia",
       "commanders": [
