@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260611-233330-9huf",
+      "title": "Alpha Thug, Critsus",
+      "commanders": [
+        "Alpha Thug",
+        "Critsus"
+      ],
+      "dateStart": "2026-06-11T13:33:30.000Z",
+      "dateEnd": "2026-06-11T15:03:16.000Z",
+      "dateLabel": "6/11/2026, 11:33:30 PM - 6/12/2026, 1:03:16 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260611-233330-9huf",
+      "summary": {
+        "borderlandsPct": 0.13333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260609-234625-15w4",
       "title": "Alpha Thug",
       "commanders": [
