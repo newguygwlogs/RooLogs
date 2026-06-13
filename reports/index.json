@@ -4,6 +4,41 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-233930-86iy",
+      "title": "Alpha Thug, Kuruptess, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Kuruptess",
+        "Mofo Mafia"
+      ],
+      "dateStart": "2026-06-13T13:39:30.000Z",
+      "dateEnd": "2026-06-13T15:29:37.000Z",
+      "dateLabel": "6/13/2026, 11:39:30 PM - 6/14/2026, 1:29:37 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260613-233930-86iy",
+      "summary": {
+        "borderlandsPct": 0.9166666666666666,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260611-233330-9huf",
       "title": "Alpha Thug, Critsus",
       "commanders": [
