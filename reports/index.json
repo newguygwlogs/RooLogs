@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260615-235940-d0rz",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-06-15T13:59:40.000Z",
+      "dateEnd": "2026-06-15T14:54:42.000Z",
+      "dateLabel": "6/15/2026, 11:59:40 PM - 6/16/2026, 12:54:42 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260615-235940-d0rz",
+      "summary": {
+        "borderlandsPct": 0.11764705882352941,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260613-233930-86iy",
       "title": "Alpha Thug, Kuruptess, Mofo Mafia",
       "commanders": [
