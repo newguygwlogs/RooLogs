@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260620-232246-4g4w",
+      "title": "Fiddyb",
+      "commanders": [
+        "Fiddyb"
+      ],
+      "dateStart": "2026-06-20T13:22:46.000Z",
+      "dateEnd": "2026-06-20T15:01:08.000Z",
+      "dateLabel": "6/20/2026, 11:22:46 PM - 6/21/2026, 1:01:08 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260620-232246-4g4w",
+      "summary": {
+        "borderlandsPct": 0.9,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260619-234105-omfw",
       "title": "Fiddyb",
       "commanders": [
