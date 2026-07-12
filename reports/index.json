@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-233919-ekzs",
+      "title": "Mofo Mafia",
+      "commanders": [
+        "Mofo Mafia"
+      ],
+      "dateStart": "2026-07-12T13:39:19.000Z",
+      "dateEnd": "2026-07-12T14:44:28.000Z",
+      "dateLabel": "7/12/2026, 11:39:19 PM - 7/13/2026, 12:44:28 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260712-233919-ekzs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260710-233221-vf3x",
       "title": "Mofo Mafia",
       "commanders": [
