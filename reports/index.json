@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-231522-c43x",
+      "title": "Inquisitor Short",
+      "commanders": [
+        "Inquisitor Short"
+      ],
+      "dateStart": "2026-07-16T13:15:22.000Z",
+      "dateEnd": "2026-07-16T14:28:51.000Z",
+      "dateLabel": "7/16/2026, 11:15:22 PM - 7/17/2026, 12:28:51 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260716-231522-c43x",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260712-233919-ekzs",
       "title": "Mofo Mafia",
       "commanders": [
