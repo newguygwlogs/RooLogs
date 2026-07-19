@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-233024-n6kt",
+      "title": "Mofo Mafia, Thugmancer",
+      "commanders": [
+        "Mofo Mafia",
+        "Thugmancer"
+      ],
+      "dateStart": "2026-07-19T13:30:24.000Z",
+      "dateEnd": "2026-07-19T15:06:37.000Z",
+      "dateLabel": "7/19/2026, 11:30:24 PM - 7/20/2026, 1:06:37 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260719-233024-n6kt",
+      "summary": {
+        "borderlandsPct": 0.21428571428571427,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260716-231522-c43x",
       "title": "Inquisitor Short",
       "commanders": [
