@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260727-233651-vorx",
+      "title": "Mofo Mafia",
+      "commanders": [
+        "Mofo Mafia"
+      ],
+      "dateStart": "2026-07-27T13:36:51.000Z",
+      "dateEnd": "2026-07-27T14:35:02.000Z",
+      "dateLabel": "7/27/2026, 11:36:51 PM - 7/28/2026, 12:35:02 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260727-233651-vorx",
+      "summary": {
+        "borderlandsPct": 0.058823529411764705,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260725-233324-4jv8",
       "title": "Rïo Grande",
       "commanders": [
