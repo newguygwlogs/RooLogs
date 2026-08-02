@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-232841-teaa",
+      "title": "Mofo Mafia",
+      "commanders": [
+        "Mofo Mafia"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-08-02T13:28:41.000Z",
+      "dateEnd": "2026-08-02T14:52:52.000Z",
+      "dateLabel": "8/2/2026, 11:28:41 PM - 8/3/2026, 12:52:52 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260802-232841-teaa",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260729-232839-7l4i",
       "title": "Alpha Thug",
       "commanders": [
