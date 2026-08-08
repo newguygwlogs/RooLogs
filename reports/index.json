@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-234557-xv4d",
+      "title": "Fiddyb, Mofo Mafia",
+      "commanders": [
+        "Fiddyb",
+        "Mofo Mafia"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-08-08T13:45:57.000Z",
+      "dateEnd": "2026-08-08T14:36:49.000Z",
+      "dateLabel": "8/8/2026, 11:45:57 PM - 8/9/2026, 12:36:49 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260808-234557-xv4d",
+      "summary": {
+        "borderlandsPct": 0.16,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260805-000332-swj4",
       "title": "Alpha Thug, Fiddyb",
       "commanders": [
