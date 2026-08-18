@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-234129-62i2",
+      "title": "Mofo Mafia, Thugmancer",
+      "commanders": [
+        "Mofo Mafia",
+        "Thugmancer"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-08-18T13:41:29.000Z",
+      "dateEnd": "2026-08-18T14:34:05.000Z",
+      "dateLabel": "8/18/2026, 11:41:29 PM - 8/19/2026, 12:34:05 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260818-234129-62i2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260816-234407-s8yu",
       "title": "Fiddyb",
       "commanders": [
