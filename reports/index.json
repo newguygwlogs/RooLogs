@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-234008-90kv",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-09-01T13:40:08.000Z",
+      "dateEnd": "2026-09-01T14:58:53.826Z",
+      "dateLabel": "9/1/2026, 11:40:08 PM - 9/2/2026, 12:58:53 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260901-234008-90kv",
+      "summary": {
+        "borderlandsPct": 0.7692307692307693,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260829-233338-7nbg",
       "title": "Alpha Thug",
       "commanders": [
