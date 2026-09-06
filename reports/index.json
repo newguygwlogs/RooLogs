@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-233754-im8b",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "guild": {
+        "id": "E474909C-23BC-EF11-8467-122223FBD123",
+        "name": "Dodge Right Sorry",
+        "tag": "LEFT"
+      },
+      "dateStart": "2026-09-06T13:37:54.000Z",
+      "dateEnd": "2026-09-06T14:30:37.011Z",
+      "dateLabel": "9/6/2026, 11:37:54 PM - 9/7/2026, 12:30:37 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260906-233754-im8b",
+      "summary": {
+        "borderlandsPct": 0.6190476190476191,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260906-002200-er46",
       "title": "Alpha Thug, Mofo Mafia",
       "commanders": [
