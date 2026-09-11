@@ -4,6 +4,36 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260911-234051-uir4",
+      "title": "Alpha Thug, Critsus, Fiddyb",
+      "commanders": [
+        "Alpha Thug",
+        "Critsus",
+        "Fiddyb"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-09-11T13:40:51.000Z",
+      "dateEnd": "2026-09-11T14:41:47.613Z",
+      "dateLabel": "9/11/2026, 11:40:51 PM - 9/12/2026, 12:41:47 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260911-234051-uir4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260910-233409-1u45",
       "title": "Alpha Thug",
       "commanders": [
