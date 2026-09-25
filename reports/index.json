@@ -2,7 +2,47 @@
   "colorPalette": "amber-warm",
   "glassSurfaces": true,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260925-233906-n0mp",
+      "title": "Fiddyb, Thugmancer",
+      "commanders": [
+        "Fiddyb",
+        "Thugmancer"
+      ],
+      "guild": {
+        "id": "E474909C-23BC-EF11-8467-122223FBD123",
+        "name": "Dodge Right Sorry",
+        "tag": "LEFT"
+      },
+      "dateStart": "2026-09-25T13:39:06.000Z",
+      "dateEnd": "2026-09-25T14:37:14.484Z",
+      "dateLabel": "9/25/2026, 11:39:06 PM - 9/26/2026, 12:37:14 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260925-233906-n0mp",
+      "summary": {
+        "borderlandsPct": 0.5294117647058824,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 46
+      }
+    },
     {
       "id": "20260921-233306-i7so",
       "title": "Fiddyb, Mofo Mafia",
