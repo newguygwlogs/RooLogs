@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-234249-6sgu",
+      "title": "Fiddyb",
+      "commanders": [
+        "Fiddyb"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-09-27T13:42:49.000Z",
+      "dateEnd": "2026-09-27T14:17:52.247Z",
+      "dateLabel": "9/27/2026, 11:42:49 PM - 9/28/2026, 12:17:52 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20260927-234249-6sgu",
+      "summary": {
+        "borderlandsPct": 0.6842105263157895,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260925-233906-n0mp",
       "title": "Fiddyb, Thugmancer",
       "commanders": [
