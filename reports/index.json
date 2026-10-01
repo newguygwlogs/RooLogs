@@ -1,9 +1,37 @@
 {
   "colorPalette": "amber-warm",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "axiDesign": false,
+  "axiTheme": "flat",
+  "glass": false,
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20261001-233749-jlzl",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-10-01T13:37:49.000Z",
+      "dateEnd": "2026-10-01T14:34:27.082Z",
+      "dateLabel": "10/1/2026, 11:37:49 PM - 10/2/2026, 12:34:27 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261001-233749-jlzl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 32
+      }
+    },
     {
       "id": "20260927-234249-6sgu",
       "title": "Fiddyb",
