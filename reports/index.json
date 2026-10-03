@@ -5,6 +5,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261003-234230-5h6k",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "guild": {
+        "id": "E474909C-23BC-EF11-8467-122223FBD123",
+        "name": "Dodge Right Sorry",
+        "tag": "LEFT"
+      },
+      "dateStart": "2026-10-03T13:42:30.000Z",
+      "dateEnd": "2026-10-03T14:46:16.219Z",
+      "dateLabel": "10/3/2026, 11:42:30 PM - 10/4/2026, 12:46:16 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261003-234230-5h6k",
+      "summary": {
+        "borderlandsPct": 0.5714285714285714,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 62
+      }
+    },
+    {
       "id": "20261001-233749-jlzl",
       "title": "Alpha Thug",
       "commanders": [
