@@ -3,7 +3,40 @@
   "axiTheme": "flat",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.21.0"
+  },
   "entries": [
+    {
+      "id": "20261006-001143-zwzt",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-10-05T13:11:43.000Z",
+      "dateEnd": "2026-10-05T14:18:03.636Z",
+      "dateLabel": "10/6/2026, 12:11:43 AM - 10/6/2026, 1:18:03 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261006-001143-zwzt",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 36
+      }
+    },
     {
       "id": "20261003-234230-5h6k",
       "title": "Alpha Thug",
