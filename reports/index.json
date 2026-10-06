@@ -5,9 +5,44 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.21.0"
+    "version": "3.22.0"
   },
   "entries": [
+    {
+      "id": "20261007-003602-um8b",
+      "title": "Alpha Thug, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Mofo Mafia"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-10-06T13:36:02.000Z",
+      "dateEnd": "2026-10-06T15:03:45.685Z",
+      "dateLabel": "10/7/2026, 12:36:02 AM - 10/7/2026, 2:03:45 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261007-003602-um8b",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0.26666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20261006-001143-zwzt",
       "title": "Furry Fluffy Fur",
