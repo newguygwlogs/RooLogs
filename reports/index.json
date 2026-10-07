@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.0"
+    "version": "3.22.1"
   },
   "entries": [
+    {
+      "id": "20261008-004519-xh8b",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-10-07T13:45:19.000Z",
+      "dateEnd": "2026-10-07T14:25:19.862Z",
+      "dateLabel": "10/8/2026, 12:45:19 AM - 10/8/2026, 1:25:19 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261008-004519-xh8b",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 20
+      }
+    },
     {
       "id": "20261007-003602-um8b",
       "title": "Alpha Thug, Mofo Mafia",
