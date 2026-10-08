@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261008-235615-8jmx",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-10-08T12:56:15.000Z",
+      "dateEnd": "2026-10-08T14:14:44.329Z",
+      "dateLabel": "10/8/2026, 11:56:15 PM - 10/9/2026, 1:14:44 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261008-235615-8jmx",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20261008-004519-xh8b",
       "title": "Furry Fluffy Fur",
       "commanders": [
