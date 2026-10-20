@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261021-000749-qw44",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-10-20T13:07:49.000Z",
+      "dateEnd": "2026-10-20T14:08:46.016Z",
+      "dateLabel": "10/21/2026, 12:07:49 AM - 10/21/2026, 1:08:46 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261021-000749-qw44",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20261019-002909-pwaz",
       "title": "Alpha Thug",
       "commanders": [
