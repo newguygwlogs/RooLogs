@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261022-195708-jfxn",
+      "title": "Markus Headcrusher",
+      "commanders": [
+        "Markus Headcrusher"
+      ],
+      "guild": {
+        "id": "187E83EC-8A2F-E611-80D4-E4115BE8E905",
+        "name": "Some Lazy Aussie Players",
+        "tag": "SLAP"
+      },
+      "dateStart": "2026-10-22T08:57:08.000Z",
+      "dateEnd": "2026-10-22T10:40:23.659Z",
+      "dateLabel": "10/22/2026, 7:57:08 PM - 10/22/2026, 9:40:23 PM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261022-195708-jfxn",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0.10714285714285714,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261021-000749-qw44",
       "title": "Thanos Supreme",
       "commanders": [
