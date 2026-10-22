@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261023-001325-yfpv",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-10-22T13:13:25.000Z",
+      "dateEnd": "2026-10-22T14:20:11.718Z",
+      "dateLabel": "10/23/2026, 12:13:25 AM - 10/23/2026, 1:20:11 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261023-001325-yfpv",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20261022-195708-jfxn",
       "title": "Markus Headcrusher",
       "commanders": [
