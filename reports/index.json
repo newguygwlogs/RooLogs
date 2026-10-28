@@ -5,9 +5,40 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261029-001610-n4ij",
+      "title": "Alpha Thug, Fiddyb, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Fiddyb",
+        "Mofo Mafia"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-10-28T13:16:10.000Z",
+      "dateEnd": "2026-10-28T14:18:27.128Z",
+      "dateLabel": "10/29/2026, 12:16:10 AM - 10/29/2026, 1:18:27 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261029-001610-n4ij",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 43
+      }
+    },
     {
       "id": "20261026-234914-tubc",
       "title": "Thanos Supreme",
