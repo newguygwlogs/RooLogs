@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261029-235658-vt8n",
+      "title": "Thanos Supreme",
+      "commanders": [
+        "Thanos Supreme"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-10-29T12:56:58.000Z",
+      "dateEnd": "2026-10-29T13:27:15.561Z",
+      "dateLabel": "10/29/2026, 11:56:58 PM - 10/30/2026, 12:27:15 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261029-235658-vt8n",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20261029-001610-n4ij",
       "title": "Alpha Thug, Fiddyb, Mofo Mafia",
       "commanders": [
