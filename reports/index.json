@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261031-235829-jn5r",
+      "title": "Mofo Mafia",
+      "commanders": [
+        "Mofo Mafia"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-10-31T12:58:29.000Z",
+      "dateEnd": "2026-10-31T13:57:03.683Z",
+      "dateLabel": "10/31/2026, 11:58:29 PM - 11/1/2026, 12:57:03 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261031-235829-jn5r",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0.041666666666666664,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20261030-235324-of0q",
       "title": "Thanos Supreme",
       "commanders": [
