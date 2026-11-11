@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.24.0"
   },
   "entries": [
+    {
+      "id": "20261112-001744-tpft",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "guild": {
+        "id": "E474909C-23BC-EF11-8467-122223FBD123",
+        "name": "Dodge Right Sorry",
+        "tag": "LEFT"
+      },
+      "dateStart": "2026-11-11T13:17:44.000Z",
+      "dateEnd": "2026-11-11T14:24:20.399Z",
+      "dateLabel": "11/12/2026, 12:17:44 AM - 11/12/2026, 1:24:20 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261112-001744-tpft",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 21
+      }
+    },
     {
       "id": "20261102-234126-0w17",
       "title": "Thanos Supreme",
