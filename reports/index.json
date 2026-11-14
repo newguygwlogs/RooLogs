@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.24.0"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261115-001503-4vn5",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-11-14T13:15:03.000Z",
+      "dateEnd": "2026-11-14T14:17:21.430Z",
+      "dateLabel": "11/15/2026, 12:15:03 AM - 11/15/2026, 1:17:21 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261115-001503-4vn5",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 10,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 22
+      }
+    },
     {
       "id": "20261112-235306-lgg0",
       "title": "Furry Fluffy Fur",
