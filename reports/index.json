@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261121-001658-xhd0",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "guild": {
+        "id": "E474909C-23BC-EF11-8467-122223FBD123",
+        "name": "Dodge Right Sorry",
+        "tag": "LEFT"
+      },
+      "dateStart": "2026-11-20T13:16:58.000Z",
+      "dateEnd": "2026-11-20T14:53:46.375Z",
+      "dateLabel": "11/21/2026, 12:16:58 AM - 11/21/2026, 1:53:46 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261121-001658-xhd0",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 3,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261119-000832-tano",
       "title": "Furry Fluffy Fur",
       "commanders": [
