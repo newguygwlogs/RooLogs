@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261125-001040-qcag",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-11-24T13:10:40.000Z",
+      "dateEnd": "2026-11-24T14:24:05.098Z",
+      "dateLabel": "11/25/2026, 12:10:40 AM - 11/25/2026, 1:24:05 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261125-001040-qcag",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261123-000132-4g65",
       "title": "Furry Fluffy Fur",
       "commanders": [
