@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261129-002205-m43o",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-11-28T13:22:05.000Z",
+      "dateEnd": "2026-11-28T14:13:25.028Z",
+      "dateLabel": "11/29/2026, 12:22:05 AM - 11/29/2026, 1:13:25 AM",
+      "url": "https://newguygwlogs.github.io/RooLogs/?report=20261129-002205-m43o",
+      "publishedBy": "newguygwlogs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261127-002424-at53",
       "title": "Alpha Thug",
       "commanders": [
